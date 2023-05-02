@@ -2,8 +2,8 @@
 A Linux driver that translates a phrase inputted from the Linux terminal to Morse code and displays them via an external LED connected to a BeagleBone 
 
 ## To Run:
-&nbsp; &nbsp; &nbsp; Type "Make" into the host's termainal \
-&nbsp; &nbsp; &nbsp; On the BeagleBone type “cd /mnt/remote/drivers/” \
+&nbsp; &nbsp; &nbsp; Type "Make" into the host's terminal \
+&nbsp; &nbsp; &nbsp; On the BeagleBone type “cd /mnt/remote/myApps/” \
 &nbsp; &nbsp; &nbsp; Then “sudo insmod morsecode.ko” \
 &nbsp; &nbsp; &nbsp; Then “echo '\<insert phrase>\’ | sudo tee /dev/morse-code“
  
