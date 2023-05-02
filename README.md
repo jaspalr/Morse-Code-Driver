@@ -10,7 +10,7 @@ A Linux driver that translates a phrase inputted from the Linux terminal to Mors
 ## To Remove:
 &nbsp; &nbsp; &nbsp; Type "sudo rmmod testdriver"
 
-##Video Demo 
+## Video Demo 
 
 
 https://user-images.githubusercontent.com/105681721/235572114-b0c29dfa-1079-4d35-a279-2b8730b4b563.mp4
