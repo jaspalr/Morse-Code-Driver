@@ -1,5 +1,5 @@
 # Morse Code Driver
-A Linux driver that translates a phrase inputted from the Linux terminal to Morse code and displays them via an external LED connected to a BeagleBone 
+A Linux driver that translates a phrases inputted from the Linux terminal to Morse code and displays them via an external LED connected to a BeagleBone 
 
 ## To Run:
 &nbsp; &nbsp; &nbsp; Type "Make" into the host's terminal \
