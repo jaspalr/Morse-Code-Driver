@@ -5,7 +5,7 @@ A Linux driver that translates a phrase inputted from the Linux terminal to Mors
 &nbsp; &nbsp; &nbsp; Type "Make" into the host's terminal \
 &nbsp; &nbsp; &nbsp; On the BeagleBone type “cd /mnt/remote/myApps/” \
 &nbsp; &nbsp; &nbsp; Then “sudo insmod morsecode.ko” \
-&nbsp; &nbsp; &nbsp; Then “echo '\<insert phrase>\’ | sudo tee /dev/morse-code“
+&nbsp; &nbsp; &nbsp; Then “echo \<insert phrase> | sudo tee /dev/morse-code“
  
 ## To Remove:
 &nbsp; &nbsp; &nbsp; Type "sudo rmmod testdriver"
